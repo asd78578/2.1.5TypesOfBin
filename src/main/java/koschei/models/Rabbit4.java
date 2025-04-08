@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Rabbit4 {
 
+    // Через анотацию @Autowired
     @Autowired
     private Duck5 duck5;
 
